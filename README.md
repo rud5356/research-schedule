@@ -1,1 +1,2 @@
-# research-schedule
+# 연구실 일정 정리
+
